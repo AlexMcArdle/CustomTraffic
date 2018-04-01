@@ -1,5 +1,5 @@
 # LICENSE
-This software is a derivative of "Enigma's Traffic Script" and Enigma's license applies.
+This software is a derivative of **Enigma's Traffic Script** and Enigma's license applies.
 https://forums.bohemia.net/forums/topic/186976-release-engimas-traffic-script/
 http://archive.is/oqcAc
 
@@ -9,7 +9,9 @@ Where this license may conflict with Enigma's original license, Enigma's license
 
 
 
-The Arma Public License Share Alike (APL-SA) is provided below as a convencience.
+##### *The Arma Public License Share Alike (APL-SA) is provided below as a convencience. The actual license is located at https://www.bohemia.net/community/licenses/arma-public-license-share-alike*
+
+
 
 Brief summary of this Licence
 PLEASE, NOTE THAT THIS SUMMARY HAS NO LEGAL EFFECT AND IS ONLY OF AN INFORMATORY NATURE DESIGNED FOR YOU TO GET THE BASIC INFORMATION ABOUT THE CONTENT OF THIS LICENCE. THE ONLY LEGALLY BINDING PROVISIONS ARE THOSE IN THE ORIGINAL AND FULL TEXT OF THIS LICENCE.
